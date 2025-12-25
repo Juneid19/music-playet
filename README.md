@@ -1,2 +1,2 @@
-# music-playet
+# music-player
 Tempat simpan musik di udara
